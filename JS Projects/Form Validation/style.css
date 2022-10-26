@@ -1,0 +1,49 @@
+body {
+    background-image: linear-gradient(to right, #6a11cb 0%, #2575fc 100%);
+}
+
+.col-md-5 {
+    margin-top: 150px !important;
+    background-image: linear-gradient(to right, #6a11cb 0%, #2575fc 100%);
+    padding: 20px !important;
+    border: 1px solid white !important;
+    border-radius: 10px;
+    
+}
+
+input {
+    margin-top: 10px;
+}
+
+button {
+    
+    margin-top: 10px !important;
+}
+
+.success {
+    border: 3px solid green !important;
+}
+
+.error {
+    border: 3px solid red !important;
+}
+
+h1 {
+    color:  rgb(46, 46, 46);
+    font-weight: bolder;
+}
+
+h5 {
+    color: white;
+}
+
+small {
+    color: rgb(247, 80, 80);
+    font-weight: bold;
+    margin: 5px;
+}
+
+.container {
+    border-radius: 3px;
+    border-color: white;
+} 

@@ -1,0 +1,38 @@
+body {
+    background-image: linear-gradient(to right, #6a11cb 0%, #2575fc 100%) ;
+}
+
+.col-md-5 {
+    margin-top: 150px !important;
+    background-image: linear-gradient(to right, #6a11cb 0%, #2575fc 100%) ;
+}
+
+h1 {
+    text-align: center;
+    font-weight: bolder !important;
+    margin: 20px !important;
+}
+
+button {
+    margin-left: 10px !important;
+}
+
+input {
+    display: inline !important;
+    border: 3px solid #444048 !important;
+    width: 85% !important;
+}
+
+li {
+    list-style-type: none;
+    font-size: 20px;
+    text-align: center;
+    width: 70%;
+    display: inline;
+    margin: 10px;
+}
+
+i {
+    color: rgb(255, 33, 33);
+    margin: 10px;
+}
